@@ -15,7 +15,7 @@ int main(void)
 	else
 	{
 		printf("입력하신 것은 영문자도 아니고 숫자도 아닙니다.\n");
-	}
+	} // 상황에 맞게 출력하기
 
 	return 0;
 }
